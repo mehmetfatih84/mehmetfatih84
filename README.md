@@ -1,3 +1,5 @@
+![code](https://github.com/mehmetfatih84/mehmetfatih84/assets/147444861/5f0d50ef-ea2c-4195-ad98-dee92832d3e0)
+
 Merhaba, ben Mehmet Fatih!
 
 Front-end geliştirici olarak, web sitelerinin ve uygulamaların görsel ve etkileşimli kısımlarını oluşturabiliyorum. HTML, CSS ve JavaScript ile, kullanıcıları memnun eden ve  kullanıcı deneyimleri tasarlıyorum.
