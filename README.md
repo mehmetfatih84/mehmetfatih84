@@ -1,16 +1,16 @@
-### Hi there 👋
+Merhaba, ben Mehmet Fatih!
 
-<!--
-**mehmetfatih84/mehmetfatih84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end geliştirici olarak, web sitelerinin ve uygulamaların görsel ve etkileşimli kısımlarını oluşturabiliyorum. HTML, CSS ve JavaScript ile, kullanıcıları memnun eden ve  kullanıcı deneyimleri tasarlıyorum.
 
-Here are some ideas to get you started:
+React kütüphanesinde uzmanım ve etkileşimli web uygulamaları oluşturuyorum. React'in güçlü özelliklerini kullanarak, kullanıcılara kişiselleştirilmiş deneyimler ve gerçek zamanlı güncellemeler sunabiliyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Github'da, çalışmalarım hakkında bilgi paylaşmak ve diğer geliştiricilerle işbirliği yapmak için aktif olarak kullanıyorum. Profilimde, kendi projelerimi ve katkıda bulunduğum açık kaynak projelerini bulabilirsiniz.
+
+İşte benimle ilgili bazı bilgiler:
+
+HTML, CSS ve JavaScript dillerinde uzmanım.
+React kütüphanesine hakimim.
+Git ve GitHub'ı etkin bir şekilde kullanıyorum.
+Açık kaynak projelerine katkıda bulunuyorum.
+Kendi projelerimi oluşturuyorum.
+Eğer benimle çalışmak veya daha fazla bilgi edinmek isterseniz, lütfen mehmetfatihdanaci@gmail.com adresinden bana ulaşın.
