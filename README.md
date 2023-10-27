@@ -1,6 +1,5 @@
 
 ![code](https://github.com/mehmetfatih84/mehmetfatih84/assets/147444861/b30b8256-dad3-47c1-9fe7-522775cef785)
-
 Merhaba, ben Mehmet Fatih!
 
 Front-end geliştirici olarak, web sitelerinin ve uygulamaların görsel ve etkileşimli kısımlarını oluşturabiliyorum. HTML, CSS ve JavaScript ile, kullanıcıları memnun eden ve  kullanıcı deneyimleri tasarlıyorum.
@@ -17,3 +16,4 @@ Git ve GitHub'ı etkin bir şekilde kullanıyorum.
 Açık kaynak projelerine katkıda bulunuyorum.
 Kendi projelerimi oluşturuyorum.
 Eğer benimle çalışmak veya daha fazla bilgi edinmek isterseniz, lütfen mehmetfatihdanaci@gmail.com adresinden bana ulaşın.
+![hmtl](https://github.com/mehmetfatih84/mehmetfatih84/assets/147444861/7f910215-dc24-422a-8165-14836556e0df)
