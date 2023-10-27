@@ -10,10 +10,6 @@ Github'da, çalışmalarım hakkında bilgi paylaşmak ve diğer geliştiriciler
 
 İşte benimle ilgili bazı bilgiler:
 
-HTML, CSS ve JavaScript dillerinde uzmanım.
-React kütüphanesine hakimim.
-Git ve GitHub'ı etkin bir şekilde kullanıyorum.
-Açık kaynak projelerine katkıda bulunuyorum.
-Kendi projelerimi oluşturuyorum.
+
 Eğer benimle çalışmak veya daha fazla bilgi edinmek isterseniz, lütfen mehmetfatihdanaci@gmail.com adresinden bana ulaşın.
-![hmtl](https://github.com/mehmetfatih84/mehmetfatih84/assets/147444861/7f910215-dc24-422a-8165-14836556e0df)
+
