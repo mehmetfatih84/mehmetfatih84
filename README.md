@@ -8,8 +8,6 @@ React kütüphanesinde uzmanım ve etkileşimli web uygulamaları oluşturuyorum
 
 Github'da, çalışmalarım hakkında bilgi paylaşmak ve diğer geliştiricilerle işbirliği yapmak için aktif olarak kullanıyorum. Profilimde, kendi projelerimi ve katkıda bulunduğum açık kaynak projelerini bulabilirsiniz.
 
-İşte benimle ilgili bazı bilgiler:
-
 
 Eğer benimle çalışmak veya daha fazla bilgi edinmek isterseniz, lütfen mehmetfatihdanaci@gmail.com adresinden bana ulaşın.
 
